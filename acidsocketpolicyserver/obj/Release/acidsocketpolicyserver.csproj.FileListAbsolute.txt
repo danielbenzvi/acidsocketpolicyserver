@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\AdobeSocketPolicyServer\acidsocketpolicyserver\obj\Release\AdobeSocketPolicyServer.exe
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\AdobeSocketPolicyServer\acidsocketpolicyserver\obj\Release\AdobeSocketPolicyServer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\AdobeSocketPolicyServer\acidsocketpolicyserver\bin\Release\AdobeSocketPolicyServer.exe
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\AdobeSocketPolicyServer\acidsocketpolicyserver\bin\Release\AdobeSocketPolicyServer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\AdobeSocketPolicyServer\acidsocketpolicyserver\obj\Release\ResolveAssemblyReference.cache
