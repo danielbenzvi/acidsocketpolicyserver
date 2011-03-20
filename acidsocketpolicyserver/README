@@ -1,5 +1,0 @@
-﻿acidsocketpolicyserver - Lightweight Adobe Flash socket policy provider written in C#
-
-The server has no configuration at the moment, listens at port 843 and provides a wide open policy file.
-
-Copyright (C) 2011 Daniel Ben-Zvi [daniel.benzvi@gmail.com]

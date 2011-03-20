@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2008\Projects\AdobeSocketPolicyServer\AdobeSocketPolicyServer\bin\Debug\AdobeSocketPolicyServer.exe
-C:\Users\Daniel\Documents\Visual Studio 2008\Projects\AdobeSocketPolicyServer\AdobeSocketPolicyServer\bin\Debug\AdobeSocketPolicyServer.pdb
-C:\Users\Daniel\Documents\Visual Studio 2008\Projects\AdobeSocketPolicyServer\AdobeSocketPolicyServer\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\Visual Studio 2008\Projects\AdobeSocketPolicyServer\AdobeSocketPolicyServer\obj\Debug\AdobeSocketPolicyServer.exe
-C:\Users\Daniel\Documents\Visual Studio 2008\Projects\AdobeSocketPolicyServer\AdobeSocketPolicyServer\obj\Debug\AdobeSocketPolicyServer.pdb

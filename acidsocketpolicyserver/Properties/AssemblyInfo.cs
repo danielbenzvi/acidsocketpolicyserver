@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AcidSocketPolicyServer")]
+[assembly: AssemblyTitle("acidsocketpolicyserver")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("AcidSocketPolicyServer")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2011")]
+[assembly: AssemblyProduct("acidsocketpolicyserver")]
+[assembly: AssemblyCopyright("Copyright © 2011 - Daniel Ben-Zvi [daniel.benzvi@gmail.com]")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
